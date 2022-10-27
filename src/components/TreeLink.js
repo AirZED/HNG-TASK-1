@@ -7,6 +7,7 @@ const TreeLink = (props) => {
       href={props.href}
       target="_blank"
       rel="noopener noreferrer"
+      id={props.id && props.id}
     >
       {props.children}
     </a>

@@ -8,6 +8,10 @@
     margin: 4em 0em 3.5em 0em;
 }
 
+#slack {
+    display: none;
+}
+
 .more {
     display: none;
 }
@@ -28,7 +32,7 @@
     .header {
         width: 90%;
         position: relative;
-        
+
     }
 
     .more {
