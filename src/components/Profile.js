@@ -52,7 +52,7 @@ const Profile = (props) => {
 
       <img src={ProfileImage} alt="Profile_Image" id="profile__img" />
       <h2 id="twitter">Mfonisoh01</h2>
-      <h2 id="slack" ></h2>
+      <h2 id="slack">MfonisoUkpabio</h2>
     </header>
   );
 };
